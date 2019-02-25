@@ -1,0 +1,26 @@
+{
+  "name": "Home-work-8",
+  "version": "1.0.0",
+  "description": "Responcive design with grid",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --output-style compressed index.scss > styles.css",
+    "scss:watch": "node-sass -w --output-style compressed index.scss > styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluerat1976/Home-work-8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluerat1976/Home-work-8/issues"
+  },
+  "homepage": "https://github.com/bluerat1976/Home-work-8#readme",
+  "devDependencies": {
+    "node": "^11.10.0",
+    "node-sass": "^4.11.0",
+    "sass": "^1.17.2"
+  }
+}
